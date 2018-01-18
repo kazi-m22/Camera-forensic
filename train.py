@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 12 12:30:56 2018
-
-@author: auri
-"""
-
 import numpy
 import pandas
 from keras.models import Sequential
